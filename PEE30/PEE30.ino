@@ -82,7 +82,7 @@ void reconnect() {
   }
 }
 
-// Initialisatie
+// Initialisatie ////////////
 void setup() {
   Serial.begin(115200);
   setup_wifi();
